@@ -47,6 +47,7 @@
         .auto-style12 {
             text-align: right;
             padding-top: 0px;
+            margin-top: 0px;
         }
         .auto-style13 {
             text-align: center;
@@ -141,9 +142,10 @@
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" ControlToValidate="TextBoxSAns" ErrorMessage="Secret answer required" ForeColor="Red" Width="180px"></asp:RequiredFieldValidator>
                 </td>
             </tr>
+
         </table>
         <p class="auto-style13">
-            <asp:Button ID="Button1" runat="server" BackColor="#CCFFFF" BorderColor="#009900" BorderStyle="Double" ClientIDMode="Static" CssClass="auto-style12" Font-Bold="True" Font-Names="Segoe Print" Font-Overline="False" Font-Size="Large" Height="36px" OnClick="Button1_Click" Text="Submit" Width="102px" />
+            <asp:Button ID="Button1" runat="server" BackColor="White" BorderColor="#003300" BorderStyle="Double" ClientIDMode="Static" CssClass="auto-style12" Font-Bold="True" Font-Names="Segoe Print" Font-Overline="False" Font-Size="Large" Height="36px" OnClick="Button1_Click" Text="Submit" Width="116px" />
         </p>
     </form>
 </body>
