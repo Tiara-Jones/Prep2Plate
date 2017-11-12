@@ -48,15 +48,20 @@
             text-align: right;
             padding-top: 0px;
             margin-top: 0px;
+            margin-left: 193px;
         }
-        .auto-style13 {
-            text-align: center;
+        .auto-style14 {
+            text-align: left;
         }
-    </style>
+        </style>
 </head>
 <body>
+    <p class="auto-style14" style="font-family: &quot;Comic Sans MS&quot;; font-size: medium; font-weight: normal; font-style: normal; color: #000000; text-decoration: blink">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let's get started, Prep2Plate!
+    </p>
+    <p class="auto-style14" style="font-family: &quot;Comic Sans MS&quot;; font-size: medium; font-weight: normal; font-style: normal; color: #000000; text-decoration: blink">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Register below to start building your sign up page in minutes. It's easy! </p>
     <form id="form1" runat="server">
         <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
         <table class="auto-style1">
             <tr>
@@ -144,8 +149,8 @@
             </tr>
 
         </table>
-        <p class="auto-style13">
-            <asp:Button ID="Button1" runat="server" BackColor="White" BorderColor="#003300" BorderStyle="Double" ClientIDMode="Static" CssClass="auto-style12" Font-Bold="True" Font-Names="Segoe Print" Font-Overline="False" Font-Size="Large" Height="36px" OnClick="Button1_Click" Text="Submit" Width="116px" />
+        <p>
+            <asp:Button ID="Button1" runat="server" BackColor="#CCFFFF" BorderColor="Black" BorderStyle="Solid" ClientIDMode="Static" CssClass="auto-style12" Font-Bold="True" Font-Names="Comic Sans MS" Font-Overline="False" Font-Size="Medium" Height="36px" OnClick="Button1_Click" Text="Register Now" Width="126px" />
         </p>
     </form>
 </body>
