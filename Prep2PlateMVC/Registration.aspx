@@ -82,7 +82,7 @@
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBoxLN" ErrorMessage="Last Name is required" ForeColor="Red" Width="180px"></asp:RequiredFieldValidator>
                 </td>
             </tr>
-            <tr>
+<%--            <tr>
                 <td class="auto-style2">User Name:</td>
                 <td class="auto-style8">
                     <asp:TextBox ID="TextBoxUN" runat="server" Width="180px"></asp:TextBox>
@@ -90,7 +90,7 @@
                 <td>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBoxUN" ErrorMessage="User Name is required" ForeColor="Red" Width="180px"></asp:RequiredFieldValidator>
                 </td>
-            </tr>
+            </tr>--%>
             <tr>
                 <td class="auto-style2">E-mail:</td>
                 <td class="auto-style8">
