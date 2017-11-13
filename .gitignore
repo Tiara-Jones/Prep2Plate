@@ -5,3 +5,4 @@ packages/
 Prep2PlateMVC/bin/
 Prep2PlateMVC/obj/
 .vs/
+Prep2PlateMVC/App_Data/Prep2Plate_log.ldf
