@@ -1,3 +1,6 @@
 *.dll
 *.ide
 *.exe
+packages/
+Prep2PlateMVC/bin/
+Prep2PlateMVC/obj/
