@@ -150,7 +150,7 @@
 
         </table>
         <p>
-            <asp:Button ID="Button1" runat="server" BackColor="#CCFFFF" BorderColor="Black" BorderStyle="Solid" ClientIDMode="Static" CssClass="auto-style12" Font-Bold="True" Font-Names="Comic Sans MS" Font-Overline="False" Font-Size="Medium" Height="36px" OnClick="Button1_Click" Text="Register Now" Width="126px" />
+            <asp:Button ID="Button1" runat="server" BackColor="#CCCCCC" BorderColor="Black" BorderStyle="Solid" ClientIDMode="Static" CssClass="auto-style12" Font-Bold="True" Font-Names="Comic Sans MS" Font-Overline="False" Font-Size="Medium" Height="36px" OnClick="Button1_Click" Text="Register Now" Width="126px" />
         </p>
     </form>
 
